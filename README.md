@@ -16,8 +16,8 @@ STRUCTURE:-
 	│    └── glyphicons-halflings-regular.woff2
 	├── js/ (contains Bootstrap Js files.)
 	│    ├── bootstrap.js
-	│    └── bootstrap.min.js
-        |    └── jquery.js 
+	│    ├── bootstrap.min.js
+	│    └── jquery.js
 	├──  img/
 	│    └── (contains all images required for developing the website)
 	├──  includes/	 
