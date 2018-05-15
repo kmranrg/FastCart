@@ -15,7 +15,7 @@ require("includes/common.php");
     <body>
         <?php
         include 'includes/header.php';
-        include 'includes/check-if-added.php';
+        include 'includes/check_if_added.php';
         ?>
         <div class="container" id="content">
             <!-- Jumbotron Header -->
